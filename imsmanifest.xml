@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5epa5Nw1HjK_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Practice Assessment Document Trial Github</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Practice_Assessment_Document_Trial_Github_ORG">
+    <organization identifier="Practice_Assessment_Document_Trial_Github_ORG">
+      <title>Practice Assessment Document Trial Github</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5epa5Nw1HjK_course_id_RES">
+        <title>Practice Assessment Document Trial Github</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5epa5Nw1HjK_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6K0T2r0Jm97_DX1194_DY1194_CX1252_CY704.png" />
+      <file href="mobile/5uLtOpR4e7S_DX374_DY374_CX262_CY56.jpg" />
+      <file href="mobile/5gJAa4jRNjb_DX3786_DY3786_CX1893_CY901.jpg" />
+      <file href="mobile/5uzdn94kzaH_DX3786_DY3786_CX1893_CY901.jpg" />
+      <file href="mobile/5vzfFgOuvjI_DX3786_DY3786_CX1893_CY901.jpg" />
+      <file href="mobile/6QZoGHZkbAz_DX3786_DY3786_CX1893_CY901.jpg" />
+      <file href="story_content/video_63X1t9tBlZd_18_160_540x258.mp4" />
+      <file href="mobile/poster_6Qs8HKJAqUr_video_63X1t9tBlZd_18_160_540x258.jpg" />
+      <file href="story_content/5ftkrh8Zu9U_44100_160_0.mp3" />
+      <file href="mobile/5bJemrimmWC_DX3786_DY3786_CX1893_CY901.jpg" />
+      <file href="story_content/video_5dRcZ5SpzxG_18_160_718x406.mp4" />
+      <file href="mobile/poster_5tEitWjZbP2_video_5dRcZ5SpzxG_18_160_718x406.jpg" />
+      <file href="mobile/5jeRuPWwkyc_X_DX1056_DY1056_CX360_CY822.png" />
+      <file href="story_content/6Styt57x3yG_44100_160_0.mp3" />
+      <file href="story_content/video_6VoVT3p1kIN_18_160_718x406.mp4" />
+      <file href="mobile/poster_6EZs8hXErTh_video_6VoVT3p1kIN_18_160_718x406.jpg" />
+      <file href="story_content/6H0T4i5ICKQ_44100_160_0.mp3" />
+      <file href="mobile/6eZZ6Pp369j_DX804_DY804_CX408_CY843.png" />
+      <file href="mobile/5xYHXag6pGT_P_0_118_2048_1156_DX1448_DY1448_CX1519_CY858.png" />
+      <file href="mobile/5uLtOpR4e7S_DX374_DY374_CX389_CY83.jpg" />
+      <file href="mobile/5jeRuPWwkyc_X_DX1058_DY1058_CX484_CY1106.png" />
+      <file href="story_content/video_6olr3kpfxgi_18_160_718x406.mp4" />
+      <file href="mobile/poster_6G5ts9o4Yze_video_6olr3kpfxgi_18_160_718x406.jpg" />
+      <file href="story_content/5wELc7YCq1x_44100_160_0.mp3" />
+      <file href="mobile/6OTSPIHYQ4u_DX1448_DY1448_CX1516_CY849.jpg" />
+      <file href="story_content/5k5drzTpU75_44100_160_0.mp3" />
+      <file href="story_content/video_6eSxLefyI5e_18_160_718x406.mp4" />
+      <file href="mobile/poster_6r30qjPp2Js_video_6eSxLefyI5e_18_160_718x406.jpg" />
+      <file href="mobile/5yGrhYE81kh_DX1454_DY1454_CX1525_CY859.jpg" />
+      <file href="mobile/5wW4CL1XYA7_DX1432_DY1432_CX1502_CY849.jpg" />
+      <file href="mobile/6QyrQ2jnZka_DX1458_DY1458_CX1529_CY860.jpg" />
+      <file href="mobile/5XCDmoPMk0r_DX1482_DY1482_CX1555_CY876.jpg" />
+      <file href="story_content/MouseClickSound_a7108f23-a757-4962-89ce-c5297b738151_44100_160_0.mp3" />
+      <file href="story_content/5lxwEafN6xe_44100_160_0.mp3" />
+      <file href="story_content/video_5ygNc3HGD04_18_160_718x406.mp4" />
+      <file href="mobile/poster_656K9X5MuYS_video_5ygNc3HGD04_18_160_718x406.jpg" />
+      <file href="mobile/6QyrQ2jnZka_DX1456_DY1456_CX1509_CY849.jpg" />
+      <file href="story_content/6oWhhazSNN2_44100_160_0.mp3" />
+      <file href="story_content/video_5vPT7IeaUtS_18_160_718x406.mp4" />
+      <file href="mobile/poster_6eAopmodcPv_video_5vPT7IeaUtS_18_160_718x406.jpg" />
+      <file href="story_content/video_64fDRZ0rpuM_18_160_718x406.mp4" />
+      <file href="mobile/poster_6kh9ZnpvVyY_video_64fDRZ0rpuM_18_160_718x406.jpg" />
+      <file href="story_content/5it7EhOtYEa_44100_160_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5b7lYaqmJT7.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5erRoMURS9l.js" />
+      <file href="html5/data/js/5iV3GrbYAim.js" />
+      <file href="html5/data/js/5mtlKGZrLUW.js" />
+      <file href="html5/data/js/5mYJGWeb4Qh.js" />
+      <file href="html5/data/js/5qYKCQUYWD1.js" />
+      <file href="html5/data/js/5rvOT0f8enY.js" />
+      <file href="html5/data/js/5VxagY3JcXB.js" />
+      <file href="html5/data/js/5YFqvlvkvQh.js" />
+      <file href="html5/data/js/627UwpDidzA.js" />
+      <file href="html5/data/js/66YFrUMeHuX.js" />
+      <file href="html5/data/js/696QWgwUkqo.js" />
+      <file href="html5/data/js/6c7F7RFWGGF.js" />
+      <file href="html5/data/js/6cocl1MQuWM.js" />
+      <file href="html5/data/js/6ELMVnTeMr2.js" />
+      <file href="html5/data/js/6kylcPeHjrd.js" />
+      <file href="html5/data/js/6L9R14Rfj1X.js" />
+      <file href="html5/data/js/6Os5SY55r4I.js" />
+      <file href="html5/data/js/6VkQt7w9xFd.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
